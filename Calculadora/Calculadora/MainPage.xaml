@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.MainPage">
+
+    <StackLayout BackgroundColor="Black">
+        <Label Text="Calculadora Dell-KL" 
+               FontFamily="Roboto" 
+               FontSize="15"  
+               HorizontalTextAlignment="Center" 
+               VerticalTextAlignment="Center"
+               TextColor="#00FFCA"
+               BackgroundColor="#241F1F"
+               Padding="5"
+               Margin="10"
+               >
+        </Label>
+
+        <Label WidthRequest="5" 
+           HorizontalTextAlignment="End"  
+           VerticalTextAlignment="center" 
+           Text="" 
+           TextColor="#fff" 
+           HeightRequest="50"
+           FontAttributes="None"
+           FontSize="35"
+           CharacterSpacing="2"
+           x:Name="resultado1"
+           Padding="5"
+           ></Label>
+
+        
+        <Grid
+            Margin="10">
+            <Grid.RowDefinitions>
+                <!-- Definimos las filas -->
+                <RowDefinition Height="3*"></RowDefinition>
+                <!-- Renderizado de tecleo y respuesta final -->
+                <RowDefinition Height="2*"></RowDefinition>
+                <!-- Se muestra el resultado al teclear-->
+                <RowDefinition Height="9*"></RowDefinition>
+                <!-- Este parte son los iconos de opcion -->
+                <RowDefinition Height="2*"></RowDefinition>
+                <!-- Teclado -->
+                <RowDefinition Height="9*"></RowDefinition>
+                <RowDefinition Height="9*"></RowDefinition>
+                <RowDefinition Height="9*"></RowDefinition>
+                <RowDefinition Height="9*"></RowDefinition>
+                <RowDefinition Height="9*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Label WidthRequest="5" 
+               Padding="1" 
+               HorizontalTextAlignment="End"  
+               VerticalTextAlignment="center" 
+               Text="" 
+               TextColor="#2FEB2F" 
+               HeightRequest="50"
+               FontAttributes="Bold"
+               FontSize="25"
+               CharacterSpacing="2"
+               BackgroundColor="#1F1C1C"
+               x:Name="resultado2"
+               Opacity="0.5"
+               Margin="5"
+               Grid.Row="2"
+               Grid.ColumnSpan="4"
+               ></Label>
+
+            <Image Grid.Column="0" 
+               Grid.Row="3" 
+               Source=""
+               WidthRequest="50" 
+               HeightRequest="50" 
+            />
+
+            <!-- Primera Fila -->
+            <Button Text="C" 
+                    Grid.Row="4" 
+                    Grid.Column="0" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    AnchorX="10"
+                    WidthRequest="2"
+                    HeightRequest="4"
+                    TextColor="#FA461D"
+                    Clicked="eventoBoton"
+            ></Button>
+            <Button Text="()" 
+                    Grid.Row="4"
+                    Grid.Column="1" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    TextColor="#2FEB2F"
+                    Clicked="eventoBoton"
+            ></Button>
+            <Button Text="%" 
+                    Grid.Row="4" 
+                    Grid.Column="2" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    TextColor="#2FEB2F"
+                    Clicked="eventoBoton"
+            ></Button>
+            <Button 
+                    Text="/" 
+                    Grid.Row="4"
+                    Grid.Column="3" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    TextColor="#2FEB2F"
+                    Clicked="eventoBoton"
+             ></Button>
+
+            <!-- Segunda Fila -->
+            <Button Text="7" 
+                    Grid.Row="5" 
+                    Grid.Column="0" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    AnchorX="10"
+                    WidthRequest="2"
+                    HeightRequest="4"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button Text="8" 
+                    Grid.Row="5"
+                    Grid.Column="1" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button Text="9" 
+                    Grid.Row="5" 
+                    Grid.Column="2" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button 
+                    Text="x" 
+                    Grid.Row="5"
+                    Grid.Column="3" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    TextColor="#2FEB2F"
+                    Clicked="eventoBoton"
+             ></Button>
+
+            <!--  Tercera Fila  -->
+            <Button Text="4" 
+                    Grid.Row="6" 
+                    Grid.Column="0" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    AnchorX="10"
+                    WidthRequest="2"
+                    HeightRequest="4"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button Text="5" 
+                    Grid.Row="6"
+                    Grid.Column="1" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button Text="6" 
+                    Grid.Row="6" 
+                    Grid.Column="2" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button 
+                    Text="-" 
+                    Grid.Row="6"
+                    Grid.Column="3" 
+                    CornerRadius="100"
+                    FontSize="50"
+                    TextColor="#2FEB2F"
+                    Clicked="eventoBoton"
+             ></Button>
+
+            <!-- Cuarta Fila -->
+            <Button Text="1" 
+                    Grid.Row="7" 
+                    Grid.Column="0" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    AnchorX="10"
+                    WidthRequest="2"
+                    HeightRequest="4"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button Text="2" 
+                    Grid.Row="7"
+                    Grid.Column="1" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button Text="3" 
+                    Grid.Row="7" 
+                    Grid.Column="2" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button 
+                    Text="+" 
+                    Grid.Row="7"
+                    Grid.Column="3" 
+                    CornerRadius="100"
+                    FontSize="40"
+                    TextColor="#2FEB2F"
+                    Clicked="eventoBoton"
+             ></Button>
+            
+            <!-- Fila ultima -->
+            <Button Text="+/-" 
+                    Grid.Row="8" 
+                    Grid.Column="0" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    AnchorX="10"
+                    WidthRequest="2"
+                    HeightRequest="4"
+                    Clicked="eventoBoton"
+            ></Button>
+            <Button Text="0" 
+                    Grid.Row="8"
+                    Grid.Column="1" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="EventoNumeros"
+            ></Button>
+            <Button Text="." 
+                    Grid.Row="8" 
+                    Grid.Column="2" 
+                    CornerRadius="100"
+                    FontSize="25"
+                    Clicked="eventoBoton"
+            ></Button>
+            <Button 
+                    Text="=" 
+                    x:Name="Respuesta" 
+                    Grid.Row="8"
+                    Grid.Column="3" 
+                    CornerRadius="100"
+                    FontSize="50"
+                    BackgroundColor="#2FEB2F"
+                    Clicked="resultadoFinal"
+             ></Button>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

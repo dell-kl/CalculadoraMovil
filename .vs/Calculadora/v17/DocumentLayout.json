@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sinned\\movil\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\operacion\\claseconstructora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\operacion\\claseconstructora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\operacion\\operacionresta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\operacion\\operacionresta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\operacion\\operaciondivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\operacion\\operaciondivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\operacion\\operacionmultiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\operacion\\operacionmultiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\operacion\\operacionsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\operacion\\operacionsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|d:\\sinned\\movil\\calculadora\\calculadora\\calculadora\\operacion\\operacionesabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BFD057-F7CC-4F6B-AF23-816A91B8085A}|Calculadora\\Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora\\operacion\\operacionesabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculadora\\Calculadora\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1536,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1224701967:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperacionDivision.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionDivision.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\Operacion\\OperacionDivision.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionDivision.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\Operacion\\OperacionDivision.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:22:35.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperacionMultiplicacion.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionMultiplicacion.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\Operacion\\OperacionMultiplicacion.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionMultiplicacion.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\Operacion\\OperacionMultiplicacion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:22:09.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperacionResta.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionResta.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\Operacion\\OperacionResta.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionResta.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\Operacion\\OperacionResta.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:21:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaseConstructora.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\ClaseConstructora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\Operacion\\ClaseConstructora.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\ClaseConstructora.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\Operacion\\ClaseConstructora.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:17:13.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OperacionSuma.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionSuma.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\Operacion\\OperacionSuma.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionSuma.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\Operacion\\OperacionSuma.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:15:57.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperacionesAbstract.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionesAbstract.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\Operacion\\OperacionesAbstract.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\Operacion\\OperacionesAbstract.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\Operacion\\OperacionesAbstract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:13:53.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\MainPage.xaml.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAhwIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T23:29:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.g.cs",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:41:40.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora\\MainPage.xaml",
+              "ToolTip": "D:\\sinned\\movil\\Calculadora\\Calculadora\\Calculadora\\MainPage.xaml",
+              "RelativeToolTip": "Calculadora\\Calculadora\\MainPage.xaml",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAkwPIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T22:14:46.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
